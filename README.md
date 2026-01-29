@@ -14,20 +14,20 @@
 
 ### 🚀 Featured Laravel Projects
 
-* 🦅 **[Laravel-SaaS-Boilerplate](https://github.com/SaddamAkbar/repo)** — A multi-tenant starter kit with Stripe integration and Jetstream.
-* 📦 **[Eloquent-Package-Name](https://github.com/SaddamAkbar/repo)** — A custom PHP package to simplify complex database relationships.
-* 🖥 **[WP-Headless-Lara](https://github.com/SaddamAkbar/repo)** — Using WordPress as a CMS with a Laravel frontend for maximum speed.
-* 🎨 **[Bootstrap-Component-Library](https://github.com/SaddamAkbar/repo)** — Reusable UI components for rapid Laravel blade development.
+* 🦅 **[Laravel-SaaS-Boilerplate](https://github.com/SaddamAkbarKhan/repo)** — A multi-tenant starter kit with Stripe integration and Jetstream.
+* 📦 **[Eloquent-Package-Name](https://github.com/SaddamAkbarKhan/repo)** — A custom PHP package to simplify complex database relationships.
+* 🖥 **[WP-Headless-Lara](https://github.com/SaddamAkbarKhan/repo)** — Using WordPress as a CMS with a Laravel frontend for maximum speed.
+* 🎨 **[Bootstrap-Component-Library](https://github.com/SaddamAkbarKhan/repo)** — Reusable UI components for rapid Laravel blade development.
 
 ---
 
 ### 📊 Contribution Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=SaddamAkbar&show_icons=true&theme=radical&hide_border=true" alt="Saddam's Stats" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaddamAkbar&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="300" />
+<img src="https://github-readme-stats.vercel.app/api?username=SaddamAkbarKhan&show_icons=true&theme=radical&hide_border=true" alt="Saddam's Stats" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaddamAkbarKhan&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="300" />
 </p>
 
 ---
 
 ### 📫 Reach Me
-[LinkedIn](https://linkedin.com/in/SaddamAkbar) • [Twitter/X](https://twitter.com/SaddamAkbar) • [Personal Portfolio](https://saddamakbar.com)
+[LinkedIn](https://linkedin.com/in/SaddamAkbarKhan) • [Twitter/X](https://twitter.com/SaddamTheGr8) • [Personal Portfolio](https://saddamakbar.com)
