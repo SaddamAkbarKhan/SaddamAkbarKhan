@@ -21,14 +21,17 @@
 
 ---
 
-### 📊 Contribution Stats
-
+### 📊 Performance & Activity
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=SaddamAkbarKhan&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Saddam's Stats" width="400" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaddamAkbarKhan&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="300" />
 </p>
 
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaddamAkbarKhan&theme=radical&hide_border=true" alt="Saddam's Streak" />
+</p>
+
 ---
 
-### 📫 Reach Me
-[LinkedIn](https://linkedin.com/in/SaddamAkbarKhan) • [Twitter/X](https://twitter.com/SaddamTheGr8) • [Personal Portfolio](https://saddamakbar.com)
+### 🤝 Connect with me
+[LinkedIn](https://linkedin.com/in/SaddamAkbarKhan) • [Twitter](https://twitter.com/SaddamAkbarKhan) • [Portfolio](https://saddamakbar.com)
