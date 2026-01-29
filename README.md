@@ -29,7 +29,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaddamAkbarKhan&theme=radical" alt="Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaddamAkbarKhan&theme=radical&hide_border=true" alt="Saddam's Streak" />
 </p>
 
 ---
