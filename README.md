@@ -24,8 +24,9 @@
 ### 📊 My GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaddamAkbarKhan&show_icons=true&theme=radical&count_private=true" alt="Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaddamAkbarKhan&layout=compact&theme=radical&hide_progress=true" alt="Top Languages" width="300" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SaddamAkbarKhan&show_icons=true&theme=radical&count_private=true" alt="Stats" width="400" />
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SaddamAkbarKhan&layout=compact&theme=radical&hide_progress=true" alt="Top Languages" width="300" />
 </p>
 
 <p align="left">
