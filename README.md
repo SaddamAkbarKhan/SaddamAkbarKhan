@@ -33,6 +33,10 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaddamAkbarKhan&theme=radical&hide_border=true" alt="Saddam's Streak" />
 </p>
 
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=SaddamAkbarKhan&theme=radical" class="w-100" />
+</p>
+
 ---
 
 ### 🤝 Connect with me
